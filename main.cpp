@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
 
-    qDebug()<<"hello world!!!";
+    qDebug()<<w.AreaOfTriangle(6.0f, 6.0f, 6.0f );
 
     return a.exec();
 }

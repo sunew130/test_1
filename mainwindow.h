@@ -14,6 +14,7 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
+    float AreaOfTriangle( float a, float b, float c );
 
 private:
     Ui::MainWindow *ui;
