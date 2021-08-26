@@ -9,6 +9,6 @@ int main(int argc, char *argv[])
     w.show();
 
     qDebug()<<"hello world!!!";
-
+    //测试
     return a.exec();
 }
