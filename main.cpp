@@ -8,6 +8,6 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
 
-    qDebug()<<"hello world!!!";
+    qDebug()<<"hello world!2!!";
     return a.exec();
 }
